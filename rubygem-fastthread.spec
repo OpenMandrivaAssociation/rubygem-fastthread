@@ -9,7 +9,7 @@ Group:		Development/Ruby
 URL:		http://%{oname}.rubyforge.org/
 Source0:	http://gems.rubyforge.org/gems/%{oname}-%{version}.gem
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
-BuildRequires:	ruby-RubyGems
+BuildRequires:	ruby-devel ruby-RubyGems
 Requires:	ruby
 
 %description
