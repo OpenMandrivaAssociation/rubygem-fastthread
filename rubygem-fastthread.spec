@@ -3,7 +3,7 @@
 Summary:	Optimized replacement for thread.rb primitives
 Name:		rubygem-%{oname}
 Version:	1.0.7
-Release:	%mkrel 2
+Release:	3
 License:	GPLv2+ or Ruby License
 Group:		Development/Ruby
 URL:		http://%{oname}.rubyforge.org/
